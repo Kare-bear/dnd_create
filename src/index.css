@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Eagle+Lake');
+
+
+body {
+  background-image: url(http://geekspodcast.com/geekpress/wp-content/uploads/2014/08/Dungeons-Dragons-Next-Edition-Out-Summer-2014.jpg);
+  background-repeat:no-repeat;
+  background-position-y: 40%;
+  background-size: 100%;
+  background-color: maroon;
+  text-shadow: 5px 3px rgb(31, 30, 30);
+  color: rgb(243, 239, 1);
+  margin: 0;
+  padding: 0;
+  font-family: "Eagle Lake", cursive;
+}
+
+
+
+
+

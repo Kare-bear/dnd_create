@@ -1,0 +1,48 @@
+.App {
+  
+  text-align: center;
+}
+
+.App-logo1 {
+  animation: App-logo-spin infinite 2s ease;
+  height: 60%;
+}
+
+.App-logo2 {
+  animation: App-logo-spin infinite 2.5s ease;
+  height: 45%;
+}
+
+.App-logo3 {
+  animation: App-logo-spin infinite 1.5s ease;
+  height: 60%;
+}
+
+.App-header {
+  background-image: url(http://eastcoastgamersnj.com/wp-content/uploads/2014/11/dungeonsanddragons-noshadow.png);
+  background-size: 25%;
+  background-position: 5% 50%;
+  background-repeat:no-repeat;
+  background-color: rgb(180, 145, 29);
+  height: 200px;
+  padding: 20px;
+  color: rgb(245, 3, 3);
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-footer {
+  background-image: url(https://i0.wp.com/gameraven.com/wp-content/uploads/2017/04/races.png?resize=660%2C358&ssl=1);
+  background-repeat: repeat-x;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
